@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd5a8072.css",
+    "main.js": "/static/js/main.8555d5c5.js",
+    "static/js/453.6df42703.chunk.js": "/static/js/453.6df42703.chunk.js",
+    "static/media/review3.png": "/static/media/review3.8660ba00bf4b68fb815e.png",
+    "static/media/review4.png": "/static/media/review4.04b7540422ff8740c1b5.png",
+    "static/media/bush3.png": "/static/media/bush3.8ad5910e189f5e366250.png",
+    "static/media/tree2.png": "/static/media/tree2.5c7cc363f874c8dde52d.png",
+    "static/media/review1.png": "/static/media/review1.4d75aeafc5c639c54fdf.png",
+    "static/media/review2.png": "/static/media/review2.f0689a61950b66b5f01d.png",
+    "static/media/bush2.png": "/static/media/bush2.ee0cc52ceb8c26fd69f6.png",
+    "static/media/tree.png": "/static/media/tree.e7c9f3a466db490bec76.png",
+    "static/media/garden1.jpeg": "/static/media/garden1.a458a4bdf43ca912ac8a.jpeg",
+    "static/media/landscaping.webp": "/static/media/landscaping.9bdff4883045b2c7751d.webp",
+    "static/media/patio.jpeg": "/static/media/patio.083935a1272be76661ec.jpeg",
+    "static/media/snow.jpeg": "/static/media/snow.d6282d615044d4c96c8a.jpeg",
+    "static/media/patio1.jpeg": "/static/media/patio1.a7cb26523b8e8986f958.jpeg",
+    "static/media/garden2.png": "/static/media/garden2.fb897cc90b03ee904a3f.png",
+    "static/media/backyard.jpeg": "/static/media/backyard.ef073430e8a4d2a3518a.jpeg",
+    "static/media/landscaping.jpeg": "/static/media/landscaping.80de886d2cf3dfc239a9.jpeg",
+    "static/media/backyard2.jpeg": "/static/media/backyard2.9f88f20cab944ca754a0.jpeg",
+    "static/media/logo.png": "/static/media/logo.c0a25e6d026187be986c.png",
+    "static/media/landscapewinter.webp": "/static/media/landscapewinter.e8821bf1a0cb5e7de8f2.webp",
+    "index.html": "/index.html",
+    "main.dd5a8072.css.map": "/static/css/main.dd5a8072.css.map",
+    "main.8555d5c5.js.map": "/static/js/main.8555d5c5.js.map",
+    "453.6df42703.chunk.js.map": "/static/js/453.6df42703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd5a8072.css",
+    "static/js/main.8555d5c5.js"
+  ]
+}
